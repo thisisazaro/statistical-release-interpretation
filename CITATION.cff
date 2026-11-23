@@ -7,11 +7,11 @@ authors:
     family-names: Azarov
     affiliation: StatGazer LLC
     website: "https://www.statgazer.com"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-11-22"
 license: CC-BY-4.0
 repository-code: "https://github.com/thisisazaro/statistical-release-interpretation"
-url: "https://github.com/thisisazaro/statistical-release-interpretation/blob/v1.0.0/methods-note.md"
+url: "https://github.com/thisisazaro/statistical-release-interpretation/blob/v1.0.1/methods-note.md"
 keywords:
   - statistical releases
   - data revisions
@@ -26,7 +26,7 @@ preferred-citation:
       family-names: Azarov
       affiliation: StatGazer LLC
   year: 2026
-  version: "1.0.0"
+  version: "1.0.1"
   institution:
     name: StatGazer LLC
-  url: "https://github.com/thisisazaro/statistical-release-interpretation/blob/v1.0.0/methods-note.md"
+  url: "https://github.com/thisisazaro/statistical-release-interpretation/blob/v1.0.1/methods-note.md"

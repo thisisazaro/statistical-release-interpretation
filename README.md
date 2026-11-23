@@ -1,6 +1,6 @@
 # US payrolls rose by 73,000. Why was the published level 185,000 below June’s first estimate?
 
-Evgenii Azarov · StatGazer methods note · version 1.0.0
+Evgenii Azarov · StatGazer methods note · version 1.0.1
 
 Seasonally adjusted U.S. nonfarm payroll employment. Both figures start from the July level in the August 1, 2025 release, 159,539,000 jobs. Each uses a different base.
 
@@ -8,7 +8,7 @@ Seasonally adjusted U.S. nonfarm payroll employment. Both figures start from the
 
 **−185,000 jobs.** July minus the first June estimate in the [July 3, 2025 release](https://www.bls.gov/news.release/archives/empsit_07032025.htm). The base is that first June estimate, 159,724,000 jobs.
 
-[Read the note in the browser](https://github.com/thisisazaro/statistical-release-interpretation/blob/v1.0.0/methods-note.md) · [Download the PDF](https://github.com/thisisazaro/statistical-release-interpretation/releases/download/v1.0.0/methods-note.pdf) · [Source tables](https://github.com/thisisazaro/statistical-release-interpretation/blob/v1.0.0/examples.md)
+[Read the note in the browser](https://github.com/thisisazaro/statistical-release-interpretation/blob/v1.0.1/methods-note.md) · [Download the PDF](https://github.com/thisisazaro/statistical-release-interpretation/releases/download/v1.0.1/methods-note.pdf) · [Source tables](https://github.com/thisisazaro/statistical-release-interpretation/blob/v1.0.1/examples.md)
 
 ## What the model replied
 
@@ -79,13 +79,13 @@ To rate a new run, read only `rerun/blind.json` and record the direction, the ma
 | [model/blind.json](model/blind.json), [model/ratings.json](model/ratings.json) | Blinded phrases and the rating log. |
 | [model/design.sha256](model/design.sha256) | SHA-256 of the locked design files. |
 | [model/start.sh](model/start.sh) | Optional local server for a new run. |
-| [CITATION.cff](CITATION.cff) | Citation metadata for version 1.0.0. |
+| [CITATION.cff](CITATION.cff) | Citation metadata for version 1.0.1. |
 
 The July 3 and August 1 payroll tables used above are also stored as [employment-situation-2025-07-03.pdf](bls/releases/employment-situation-2025-07-03.pdf) and [employment-situation-2025-08-01.pdf](bls/releases/employment-situation-2025-08-01.pdf).
 
 ## Use and attribution
 
-The methods note, this README, the protocol, the worked examples, the results commentary, and the checking code are by Evgenii Azarov. They are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribute the note as: Evgenii Azarov, StatGazer, “US payrolls rose by 73,000. Why was the published level 185,000 below June’s first estimate?”, version 1.0.0, <https://github.com/thisisazaro/statistical-release-interpretation>.
+The methods note, this README, the protocol, the worked examples, the results commentary, and the checking code are by Evgenii Azarov. They are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribute the note as: Evgenii Azarov, StatGazer, “US payrolls rose by 73,000. Why was the published level 185,000 below June’s first estimate?”, version 1.0.1, <https://github.com/thisisazaro/statistical-release-interpretation>.
 
 The six PDFs in `bls/releases/` are publications of the U.S. Bureau of Labor Statistics. BLS states that material on its website is in the public domain unless otherwise noted, and it asks to be cited: <https://www.bls.gov/bls/copyright.htm>. `bls/manifest.json` also records a FRASER copy for each release. FRASER is a service of the Federal Reserve Bank of St. Louis.
 
