@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Ниже на 258 thousand jobs. База сравнения — уровень June 2025 (предыдущий выпуск), текущий уровень — July 2025 (последний выпуск).  \nЯчейки: B − A = -258."
+      }
+    }
+  ],
+  "created": 1795386867,
+  "model": "qwen3-4b",
+  "system_fingerprint": "b8177-5596a3579",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 980,
+    "total_tokens": 1047
+  },
+  "id": "chatcmpl-THk58mk9dIG3Hqjtl3swKkYQ3rUUFHzP",
+  "timings": {
+    "cache_n": 164,
+    "prompt_n": 816,
+    "prompt_ms": 3133.251,
+    "prompt_per_token_ms": 3.8397683823529416,
+    "prompt_per_second": 260.43237519113535,
+    "predicted_n": 67,
+    "predicted_ms": 3182.705,
+    "predicted_per_token_ms": 47.50305970149254,
+    "predicted_per_second": 21.05127556591013
+  },
+  "statgazer_request_sha256": "71d5d01f5ef4ebd15df0f082544662de7edd7bed70fc73cd002810e442f5a815"
+}

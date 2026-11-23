@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Выше на 149 thousand jobs.  \nЯчейки: C − A = 159218 − 159069 = 149."
+      }
+    }
+  ],
+  "created": 1795386847,
+  "model": "qwen3-4b",
+  "system_fingerprint": "b8177-5596a3579",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 1085,
+    "total_tokens": 1127
+  },
+  "id": "chatcmpl-qEF0n71L3vSBrqzyKqnJ4JL8IOxxIuiI",
+  "timings": {
+    "cache_n": 167,
+    "prompt_n": 918,
+    "prompt_ms": 3310.611,
+    "prompt_per_token_ms": 3.606330065359477,
+    "prompt_per_second": 277.29020413452383,
+    "predicted_n": 42,
+    "predicted_ms": 1957.315,
+    "predicted_per_token_ms": 46.602738095238095,
+    "predicted_per_second": 21.457966653298012
+  },
+  "statgazer_request_sha256": "9d7a322dfc3096b279b40485292e5b6d0cfa975f4cd50bd1cdd071a861bb0dbe"
+}

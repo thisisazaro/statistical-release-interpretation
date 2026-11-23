@@ -1,0 +1,226 @@
+[
+  {
+    "id": "205b33187b93",
+    "direction": "down",
+    "amount": "258",
+    "unit": "thousand jobs",
+    "pair": "B-A",
+    "note": null
+  },
+  {
+    "id": "27620c2b9e3e",
+    "direction": "up",
+    "amount": "0.3",
+    "unit": "index points",
+    "pair": "C-B",
+    "note": null
+  },
+  {
+    "id": "38faf512d6c6",
+    "direction": "up",
+    "amount": "0.1",
+    "unit": "index points",
+    "pair": "C-B",
+    "note": null
+  },
+  {
+    "id": "3953233dbae6",
+    "direction": "up",
+    "amount": "12",
+    "unit": "thousand jobs",
+    "pair": "C-B",
+    "note": null
+  },
+  {
+    "id": "3b081a87233e",
+    "direction": "flat",
+    "amount": null,
+    "unit": null,
+    "pair": "B-A",
+    "note": "101.8 is a level. Only the trace gives a numeric change."
+  },
+  {
+    "id": "3d765f7ee428",
+    "direction": "down",
+    "amount": "73",
+    "unit": "thousand jobs",
+    "pair": "C-B",
+    "note": "The client says lower. The trace gives +73."
+  },
+  {
+    "id": "3ec38bc70b0a",
+    "direction": "up",
+    "amount": "73",
+    "unit": "thousand jobs",
+    "pair": "C-B",
+    "note": null
+  },
+  {
+    "id": "5110573560ce",
+    "direction": "up",
+    "amount": "0.3",
+    "unit": "index points",
+    "pair": "C-B",
+    "note": null
+  },
+  {
+    "id": "5909e7369e0a",
+    "direction": "up",
+    "amount": "73",
+    "unit": "thousand jobs",
+    "pair": "C-A",
+    "note": null
+  },
+  {
+    "id": "66a213350d6b",
+    "direction": "up",
+    "amount": "0.7",
+    "unit": "index points",
+    "pair": "C-A",
+    "note": null
+  },
+  {
+    "id": "8fc1d35a523b",
+    "direction": "down",
+    "amount": "0.2",
+    "unit": null,
+    "pair": "B-A",
+    "note": "Client says level units. The trace gives C-A = -0.1 and B-A = -0.2. Only B-A matches the stated change."
+  },
+  {
+    "id": "92cfaacdb58e",
+    "direction": "up",
+    "amount": "149",
+    "unit": "thousand jobs",
+    "pair": "C-A",
+    "note": null
+  },
+  {
+    "id": "984b42d85a45",
+    "direction": "up",
+    "amount": "12",
+    "unit": "thousand jobs",
+    "pair": "C-B",
+    "note": null
+  },
+  {
+    "id": "9bb34a44531e",
+    "direction": "down",
+    "amount": "0.1",
+    "unit": "index points",
+    "pair": "C-B",
+    "note": "The client says lower. The trace gives +0.1."
+  },
+  {
+    "id": "9c5b18b8d6b3",
+    "direction": "up",
+    "amount": "2",
+    "unit": "thousand jobs",
+    "pair": "B-A",
+    "note": "The client says higher. The trace gives -2."
+  },
+  {
+    "id": "a4a6a2047e10",
+    "direction": "unanswered",
+    "amount": "0.0",
+    "unit": null,
+    "pair": "B-A",
+    "note": "The client sentence says higher by 0.0, internally conflicting at the stated precision. Unit is generic. Trace gives C-A = -0.3 and B-A = +0.0."
+  },
+  {
+    "id": "a88d086e778b",
+    "direction": "down",
+    "amount": "0.3",
+    "unit": "index points",
+    "pair": "C-B",
+    "note": null
+  },
+  {
+    "id": "b9fcba770b2a",
+    "direction": "down",
+    "amount": "100",
+    "unit": "thousand jobs",
+    "pair": "C-A",
+    "note": null
+  },
+  {
+    "id": "bd971ffe063e",
+    "direction": "down",
+    "amount": "0.2",
+    "unit": "index points",
+    "pair": "B-A",
+    "note": null
+  },
+  {
+    "id": "c9894918f8d0",
+    "direction": "up",
+    "amount": "0.7",
+    "unit": "index points",
+    "pair": "C-B",
+    "note": null
+  },
+  {
+    "id": "cb3bab13d612",
+    "direction": "down",
+    "amount": "0.2",
+    "unit": null,
+    "pair": "B-A",
+    "note": "No unit. Trace gives C-A = -0.1 and B-A = -0.2. Only B-A matches the stated change."
+  },
+  {
+    "id": "ce33d1da670d",
+    "direction": "up",
+    "amount": "149",
+    "unit": "thousand jobs",
+    "pair": "C-A",
+    "note": null
+  },
+  {
+    "id": "d47c7d36e014",
+    "direction": "down",
+    "amount": "12",
+    "unit": null,
+    "pair": "C-B",
+    "note": "The client says lower by 12 generic units. The trace gives +12."
+  },
+  {
+    "id": "ddd728ae25cc",
+    "direction": "up",
+    "amount": "0.2",
+    "unit": "index points",
+    "pair": "B-A",
+    "note": null
+  },
+  {
+    "id": "e38b204aed65",
+    "direction": "up",
+    "amount": "0.1",
+    "unit": "index points",
+    "pair": "C-A",
+    "note": "Trace gives B-A = +0.2, C-A = +0.1, and C-B = -0.1. Only C-A matches the signed client change."
+  },
+  {
+    "id": "e983f06edd41",
+    "direction": "up",
+    "amount": "149",
+    "unit": "thousand jobs",
+    "pair": "C-A",
+    "note": null
+  },
+  {
+    "id": "eb76a8d01906",
+    "direction": "up",
+    "amount": "0.2",
+    "unit": null,
+    "pair": "B-A",
+    "note": "The client says level units."
+  },
+  {
+    "id": "fce9e958f7c1",
+    "direction": "flat",
+    "amount": null,
+    "unit": null,
+    "pair": "C-B",
+    "note": "The client says unchanged and gives 101.8 twice as a level. Trace gives +0.7."
+  }
+]

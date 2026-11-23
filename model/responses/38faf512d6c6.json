@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Выше на 0.1 пункта по сравнению с предыдущим месяцем (2023-12).  \nЯчейки: C − B."
+      }
+    }
+  ],
+  "created": 1795386893,
+  "model": "qwen3-4b",
+  "system_fingerprint": "b8177-5596a3579",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 979,
+    "total_tokens": 1019
+  },
+  "id": "chatcmpl-N0IdHZUuvHH7PdGimzedTytsHsP9H314",
+  "timings": {
+    "cache_n": 864,
+    "prompt_n": 115,
+    "prompt_ms": 482.405,
+    "prompt_per_token_ms": 4.194826086956522,
+    "prompt_per_second": 238.38890558762867,
+    "predicted_n": 40,
+    "predicted_ms": 1762.59,
+    "predicted_per_token_ms": 44.06475,
+    "predicted_per_second": 22.69387662473973
+  },
+  "statgazer_request_sha256": "5ce88c541928dff79e3652815d830f282b29ccf90381f868710066cdb4041cf2"
+}

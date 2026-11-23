@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Без изменения. Значение показателя не изменилось: 101.8. База сравнения — месяц 2026-03. Ячейки: B − A = +0.0."
+      }
+    }
+  ],
+  "created": 1795386900,
+  "model": "qwen3-4b",
+  "system_fingerprint": "b8177-5596a3579",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 890,
+    "total_tokens": 944
+  },
+  "id": "chatcmpl-SU1wNs8fomgpnQfRLqkOouLTIvtkwtLB",
+  "timings": {
+    "cache_n": 878,
+    "prompt_n": 12,
+    "prompt_ms": 133.879,
+    "prompt_per_token_ms": 11.156583333333332,
+    "prompt_per_second": 89.6331762262939,
+    "predicted_n": 54,
+    "predicted_ms": 2557.372,
+    "predicted_per_token_ms": 47.358740740740735,
+    "predicted_per_second": 21.115426304816037
+  },
+  "statgazer_request_sha256": "0b59c24c24e0acc81b7b0be0aad9b43c781914a80e2e5c7dabea84a4dfbbda66"
+}

@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "Please cite this methods note using the metadata below."
+type: software
+title: "US payrolls rose by 73,000. Why was the published level 185,000 below June’s first estimate?"
+authors:
+  - given-names: Evgenii
+    family-names: Azarov
+    affiliation: StatGazer LLC
+    website: "https://www.statgazer.com"
+version: "1.0.0"
+date-released: "2026-11-22"
+license: CC-BY-4.0
+repository-code: "https://github.com/thisisazaro/statistical-release-interpretation"
+url: "https://github.com/thisisazaro/statistical-release-interpretation/blob/v1.0.0/methods-note.md"
+keywords:
+  - statistical releases
+  - data revisions
+  - comparison baseline
+  - payroll employment
+abstract: "StatGazer methods note on two comparison baselines for the August 1, 2025 U.S. payroll release. Seven specially selected release pairs, 28 saved answers from one model under two prompts, and an offline check of those answers. The frequency of the error in ordinary publications is unknown."
+preferred-citation:
+  type: report
+  title: "US payrolls rose by 73,000. Why was the published level 185,000 below June’s first estimate?"
+  authors:
+    - given-names: Evgenii
+      family-names: Azarov
+      affiliation: StatGazer LLC
+  year: 2026
+  version: "1.0.0"
+  institution:
+    name: StatGazer LLC
+  url: "https://github.com/thisisazaro/statistical-release-interpretation/blob/v1.0.0/methods-note.md"

@@ -1,0 +1,56 @@
+[
+  {
+    "reference_month": "2024-09",
+    "release_date": "2024-10-04",
+    "release_url": "https://www.bls.gov/news.release/archives/empsit_10042024.htm",
+    "archive_pdf_url": "https://fraser.stlouisfed.org/files/docs/releases/bls/bls_employnews_202409.pdf",
+    "file": "releases/employment-situation-2024-10-04.pdf",
+    "sha256": "8abb851a31ec4dc8af68aeb3c588b51100e0f87ea6cff0764790288928357635",
+    "table_page": 28
+  },
+  {
+    "reference_month": "2024-10",
+    "release_date": "2024-11-01",
+    "release_url": "https://www.bls.gov/news.release/archives/empsit_11012024.htm",
+    "archive_pdf_url": "https://fraser.stlouisfed.org/files/docs/releases/bls/bls_employnews_202410.pdf",
+    "file": "releases/employment-situation-2024-11-01.pdf",
+    "sha256": "a828ce23c0044f52fb99ec05194264182621aa30d3840c73876faeac309fe98c",
+    "table_page": 29
+  },
+  {
+    "reference_month": "2025-01",
+    "release_date": "2025-02-07",
+    "release_url": "https://www.bls.gov/news.release/archives/empsit_02072025.htm",
+    "archive_pdf_url": "https://fraser.stlouisfed.org/files/docs/releases/bls/bls_employnews_202501.pdf",
+    "file": "releases/employment-situation-2025-02-07.pdf",
+    "sha256": "5e6a968bff783a34b302761f32797fab9bfd746299d1b6ee748babe20a937f62",
+    "table_page": 31
+  },
+  {
+    "reference_month": "2025-02",
+    "release_date": "2025-03-07",
+    "release_url": "https://www.bls.gov/news.release/archives/empsit_03072025.htm",
+    "archive_pdf_url": "https://fraser.stlouisfed.org/files/docs/releases/bls/bls_employnews_202502.pdf",
+    "file": "releases/employment-situation-2025-03-07.pdf",
+    "sha256": "a1b43829c5bd5959e7cab7fb7d0a22fcffb86753a18b1a73a28756ababea92eb",
+    "table_page": 28
+  },
+  {
+    "reference_month": "2025-06",
+    "release_date": "2025-07-03",
+    "release_url": "https://www.bls.gov/news.release/archives/empsit_07032025.htm",
+    "archive_pdf_url": "https://fraser.stlouisfed.org/files/docs/releases/bls/bls_employnews_202506.pdf",
+    "file": "releases/employment-situation-2025-07-03.pdf",
+    "sha256": "eafd439c67e9de8d6980f3d014e0615271ecdf93be4119a5896ba003552d945c",
+    "table_page": 28
+  },
+  {
+    "reference_month": "2025-07",
+    "release_date": "2025-08-01",
+    "release_url": "https://www.bls.gov/news.release/archives/empsit_08012025.htm",
+    "archive_pdf_url": "https://fraser.stlouisfed.org/files/docs/releases/bls/bls_employnews_202507.pdf",
+    "file": "releases/employment-situation-2025-08-01.pdf",
+    "sha256": "3cab42e98aae44f6e90678d75c7c028d1703729e95e1f1f91724519bacf42a84",
+    "table_page": 28
+  }
+]

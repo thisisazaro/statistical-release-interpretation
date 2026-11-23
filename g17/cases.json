@@ -1,0 +1,106 @@
+[
+  {
+    "id": "g17-2024-01",
+    "series": "Total industrial production index, seasonally adjusted (2017=100)",
+    "unit": "index points",
+    "previous_date": "2024-01-17",
+    "current_date": "2024-02-15",
+    "previous_url": "https://www.federalreserve.gov/releases/g17/20240117/g17.txt",
+    "current_url": "https://www.federalreserve.gov/releases/g17/20240215/g17.txt",
+    "prior_month": "2023-12",
+    "current_month": "2024-01",
+    "previous_level": "102.5",
+    "revised_level": "102.7",
+    "current_level": "102.6",
+    "locator": "Industrial Production and Capacity Utilization: Summary; Seasonally adjusted; Industrial production, Total index; 2017=100 level block. 20240117: lines 77, 80 (Dec.[p]); 20240215: lines 88, 91 (Dec.[r], Jan.[p]).",
+    "previous_file": "g17/releases/20240117.txt",
+    "current_file": "g17/releases/20240215.txt",
+    "archive_crosscheck": {
+      "series": "init.b50001.s, rev1.b50001.s, init.b50001.s",
+      "levels": [
+        "102.4840",
+        "102.6715",
+        "102.5739"
+      ],
+      "official_monthly_percent": "-.1"
+    }
+  },
+  {
+    "id": "g17-2025-08",
+    "series": "Total industrial production index, seasonally adjusted (2017=100)",
+    "unit": "index points",
+    "previous_date": "2025-08-15",
+    "current_date": "2025-09-16",
+    "previous_url": "https://www.federalreserve.gov/releases/g17/20250815/g17.txt",
+    "current_url": "https://www.federalreserve.gov/releases/g17/20250916/g17.txt",
+    "prior_month": "2025-07",
+    "current_month": "2025-08",
+    "previous_level": "104.0",
+    "revised_level": "103.8",
+    "current_level": "103.9",
+    "locator": "Industrial Production and Capacity Utilization: Summary; Seasonally adjusted; Industrial production, Total index; 2017=100 level block. 20250815: lines 81, 84 (July[p]); 20250916: lines 80, 83 (July[r], Aug.[p]).",
+    "previous_file": "g17/releases/20250815.txt",
+    "current_file": "g17/releases/20250916.txt",
+    "archive_crosscheck": {
+      "series": "init.b50001.s, rev1.b50001.s, init.b50001.s",
+      "levels": [
+        "103.9867",
+        "103.8194",
+        "103.9203"
+      ],
+      "official_monthly_percent": ".1"
+    }
+  },
+  {
+    "id": "g17-2025-03",
+    "series": "Total industrial production index, seasonally adjusted (2017=100)",
+    "unit": "index points",
+    "previous_date": "2025-03-18",
+    "current_date": "2025-04-16",
+    "previous_url": "https://www.federalreserve.gov/releases/g17/20250318/g17.txt",
+    "current_url": "https://www.federalreserve.gov/releases/g17/20250416/g17.txt",
+    "prior_month": "2025-02",
+    "current_month": "2025-03",
+    "previous_level": "104.2",
+    "revised_level": "104.2",
+    "current_level": "103.9",
+    "locator": "Industrial Production and Capacity Utilization: Summary; Seasonally adjusted; Industrial production, Total index; 2017=100 level block. 20250318: lines 53, 56 (Feb.[p]); 20250416: lines 80, 83 (Feb.[r], Mar.[p]).",
+    "previous_file": "g17/releases/20250318.txt",
+    "current_file": "g17/releases/20250416.txt",
+    "archive_crosscheck": {
+      "series": "init.b50001.s, rev1.b50001.s, init.b50001.s",
+      "levels": [
+        "104.2062",
+        "104.2202",
+        "103.8892"
+      ],
+      "official_monthly_percent": "-.3"
+    }
+  },
+  {
+    "id": "g17-2026-04",
+    "series": "Total industrial production index, seasonally adjusted (2017=100)",
+    "unit": "index points",
+    "previous_date": "2026-04-16",
+    "current_date": "2026-05-15",
+    "previous_url": "https://www.federalreserve.gov/releases/g17/20260416/g17.txt",
+    "current_url": "https://www.federalreserve.gov/releases/g17/20260515/g17.txt",
+    "prior_month": "2026-03",
+    "current_month": "2026-04",
+    "previous_level": "101.8",
+    "revised_level": "101.8",
+    "current_level": "102.5",
+    "locator": "Industrial Production and Capacity Utilization: Summary; Seasonally adjusted; Industrial production, Total index; 2017=100 level block. 20260416: lines 55, 58 (Mar.[p]); 20260515: lines 71, 74 (Mar.[r], Apr.[p]).",
+    "previous_file": "g17/releases/20260416.txt",
+    "current_file": "g17/releases/20260515.txt",
+    "archive_crosscheck": {
+      "series": "init.b50001.s, rev1.b50001.s, init.b50001.s",
+      "levels": [
+        "101.7898",
+        "101.8060",
+        "102.4963"
+      ],
+      "official_monthly_percent": ".7"
+    }
+  }
+]

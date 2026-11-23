@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Выше на 0.7 пункта по сравнению с базовым уровнем 2026-03.  \nЯчейки: C − B."
+      }
+    }
+  ],
+  "created": 1795386889,
+  "model": "qwen3-4b",
+  "system_fingerprint": "b8177-5596a3579",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 37,
+    "prompt_tokens": 993,
+    "total_tokens": 1030
+  },
+  "id": "chatcmpl-vkbKb8FkdOCr3AWYXGl5ctP75yYq7J4C",
+  "timings": {
+    "cache_n": 858,
+    "prompt_n": 135,
+    "prompt_ms": 571.036,
+    "prompt_per_token_ms": 4.229896296296296,
+    "prompt_per_second": 236.41241532933125,
+    "predicted_n": 37,
+    "predicted_ms": 1671.065,
+    "predicted_per_token_ms": 45.163918918918924,
+    "predicted_per_second": 22.14156840098979
+  },
+  "statgazer_request_sha256": "9093fdc74cc1337ac106838bfb5173ed826b460fbba07d95172f3620c7b9b1d0"
+}

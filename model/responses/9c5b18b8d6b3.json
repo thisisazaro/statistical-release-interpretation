@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Выше на 2 thousand jobs. База сравнения: уровень из предыдущего выпуска (2025-02-07) — 159069. Ячейки: B − A = -2."
+      }
+    }
+  ],
+  "created": 1795386883,
+  "model": "qwen3-4b",
+  "system_fingerprint": "b8177-5596a3579",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 993,
+    "total_tokens": 1050
+  },
+  "id": "chatcmpl-qz9yyUFOFzuogHcbiY2qHgd6gCcHKXil",
+  "timings": {
+    "cache_n": 950,
+    "prompt_n": 43,
+    "prompt_ms": 228.824,
+    "prompt_per_token_ms": 5.3214883720930235,
+    "prompt_per_second": 187.9173513267839,
+    "predicted_n": 57,
+    "predicted_ms": 2551.295,
+    "predicted_per_token_ms": 44.759561403508776,
+    "predicted_per_second": 22.34159515069798
+  },
+  "statgazer_request_sha256": "f30facec05e4043f140196615e3e4c6513cae3479a465b3cf90296f1f8c87155"
+}

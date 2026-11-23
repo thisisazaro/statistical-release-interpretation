@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Ниже на 73 thousand jobs.  \nЯчейки: C − B = +73."
+      }
+    }
+  ],
+  "created": 1795386894,
+  "model": "qwen3-4b",
+  "system_fingerprint": "b8177-5596a3579",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 25,
+    "prompt_tokens": 969,
+    "total_tokens": 994
+  },
+  "id": "chatcmpl-KnHj8jYeF3w0vutAbUSWWQNis0eMFgJN",
+  "timings": {
+    "cache_n": 937,
+    "prompt_n": 32,
+    "prompt_ms": 137.004,
+    "prompt_per_token_ms": 4.281375,
+    "prompt_per_second": 233.569822778897,
+    "predicted_n": 25,
+    "predicted_ms": 1081.532,
+    "predicted_per_token_ms": 43.26128,
+    "predicted_per_second": 23.115358583934643
+  },
+  "statgazer_request_sha256": "09d049c48a1f349a4e42984773890921cea9498590cb66e65ad6d610827de1c4"
+}

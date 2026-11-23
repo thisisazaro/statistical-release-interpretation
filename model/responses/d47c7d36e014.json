@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Ниже, на 12 единиц.  \nЯчейки: C − B = +12."
+      }
+    }
+  ],
+  "created": 1795386908,
+  "model": "qwen3-4b",
+  "system_fingerprint": "b8177-5596a3579",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 27,
+    "prompt_tokens": 985,
+    "total_tokens": 1012
+  },
+  "id": "chatcmpl-IliJ43g0Ci8efJMYFkYkdc7lVZ2uCaQU",
+  "timings": {
+    "cache_n": 973,
+    "prompt_n": 12,
+    "prompt_ms": 128.943,
+    "prompt_per_token_ms": 10.74525,
+    "prompt_per_second": 93.0643772829855,
+    "predicted_n": 27,
+    "predicted_ms": 1314.992,
+    "predicted_per_token_ms": 48.703407407407404,
+    "predicted_per_second": 20.532444303843675
+  },
+  "statgazer_request_sha256": "6e21e9cb8b7a7290122a16a62b7d9c5ee3a8e1d042d8d50f52e9313ee16c6223"
+}

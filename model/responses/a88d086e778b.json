@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Ниже. Значение показателя снизилось на 0.3 пункта по сравнению с предыдущим месяцем (база — февраль 2025 года).  \nЯчейки: C − B = -0.3"
+      }
+    }
+  ],
+  "created": 1795386911,
+  "model": "qwen3-4b",
+  "system_fingerprint": "b8177-5596a3579",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 896,
+    "total_tokens": 957
+  },
+  "id": "chatcmpl-7gIdE9AJYmF8dJ0ixS085pDP7GrnN4OI",
+  "timings": {
+    "cache_n": 884,
+    "prompt_n": 12,
+    "prompt_ms": 133.381,
+    "prompt_per_token_ms": 11.115083333333333,
+    "prompt_per_second": 89.9678364984518,
+    "predicted_n": 61,
+    "predicted_ms": 2873.374,
+    "predicted_per_token_ms": 47.104491803278684,
+    "predicted_per_second": 21.229397913393804
+  },
+  "statgazer_request_sha256": "f12bf2c26ea3d4156cf80bdcb096dced7b765e140c82993e8490a13d4470bbec"
+}

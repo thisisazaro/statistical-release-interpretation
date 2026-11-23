@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Ниже на 0.2 в единицах уровней (база — уровень July '25, предыдущий выпуск).  \nЯчейки: C − A = -0.1; B − A = -0.2."
+      }
+    }
+  ],
+  "created": 1795386904,
+  "model": "qwen3-4b",
+  "system_fingerprint": "b8177-5596a3579",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 968,
+    "total_tokens": 1026
+  },
+  "id": "chatcmpl-ocPcZjkgNywhvQ4GAdIxMFCOBCUI3sXF",
+  "timings": {
+    "cache_n": 822,
+    "prompt_n": 146,
+    "prompt_ms": 638.387,
+    "prompt_per_token_ms": 4.3725136986301365,
+    "prompt_per_second": 228.70139899465374,
+    "predicted_n": 58,
+    "predicted_ms": 2720.767,
+    "predicted_per_token_ms": 46.90977586206896,
+    "predicted_per_second": 21.317518185129416
+  },
+  "statgazer_request_sha256": "b404e8683140141925406b5cd519b3dccd826e30537e32655e5297487658ca23"
+}

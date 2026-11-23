@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Ниже, на 0.1 точку по сравнению с July '25 (103.9).  \nЯчейки: C − B = +0.1."
+      }
+    }
+  ],
+  "created": 1795386841,
+  "model": "qwen3-4b",
+  "system_fingerprint": "b8177-5596a3579",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 957,
+    "total_tokens": 999
+  },
+  "id": "chatcmpl-VKz7RH2j5bBeDKjyVIv2RXemSxRWC4VA",
+  "timings": {
+    "cache_n": 0,
+    "prompt_n": 957,
+    "prompt_ms": 3682.453,
+    "prompt_per_token_ms": 3.8479132706374086,
+    "prompt_per_second": 259.88111728785134,
+    "predicted_n": 42,
+    "predicted_ms": 1768.011,
+    "predicted_per_token_ms": 42.0955,
+    "predicted_per_second": 23.755508308489034
+  },
+  "statgazer_request_sha256": "15ae35ca6830305c814fde3a653e17266980bd3e8dd7957d682b86cd079c0e9e"
+}

@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Без изменения. Уровень в последнем выпуске (101.8) не отличается от уровня в предыдущем выпуске (101.8). Ячейки: C − B = +0.7."
+      }
+    }
+  ],
+  "created": 1795386880,
+  "model": "qwen3-4b",
+  "system_fingerprint": "b8177-5596a3579",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 901,
+    "total_tokens": 955
+  },
+  "id": "chatcmpl-zHcJjclOrWcU4TlDZOMOlff3uLFKTXEJ",
+  "timings": {
+    "cache_n": 889,
+    "prompt_n": 12,
+    "prompt_ms": 131.401,
+    "prompt_per_token_ms": 10.950083333333334,
+    "prompt_per_second": 91.32350590939186,
+    "predicted_n": 54,
+    "predicted_ms": 2373.427,
+    "predicted_per_token_ms": 43.95235185185185,
+    "predicted_per_second": 22.751911055195713
+  },
+  "statgazer_request_sha256": "143980d18c60ab9601979be869bd20a3cb81e6d32d45793e5548fe5df0c3db2f"
+}

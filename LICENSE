@@ -1,0 +1,28 @@
+Copyright 2026 Evgenii Azarov
+
+The methods note, the README, the protocol, the worked examples, the results
+commentary, and the checking code written for this repository are licensed
+under the Creative Commons Attribution 4.0 International License.
+
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution for the note: Evgenii Azarov, StatGazer, "US payrolls rose by
+73,000. Why was the published level 185,000 below June’s first estimate?",
+version 1.0.0,
+https://github.com/thisisazaro/statistical-release-interpretation
+
+The files under bls/releases/ are publications of the U.S. Bureau of Labor
+Statistics. The Bureau states that material on its website is in the public
+domain unless otherwise noted and asks to be cited:
+https://www.bls.gov/bls/copyright.htm
+bls/manifest.json also records a FRASER copy of each release. FRASER is a
+service of the Federal Reserve Bank of St. Louis.
+
+The files under g17/releases/, together with g17/release-calendar.html,
+g17/revision-documentation.html, and g17/revision-vintages.txt, are
+publications of the Board of Governors of the Federal Reserve System:
+https://www.federalreserve.gov/disclaimer.htm
+
+The license above covers the author's materials. It does not apply to the
+Bureau of Labor Statistics files, the Federal Reserve files, or the FRASER
+copies, and it does not change their status.

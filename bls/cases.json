@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bls-2025-07",
+    "series": "All employees, total nonfarm, seasonally adjusted",
+    "unit": "thousand jobs",
+    "previous_date": "2025-07-03",
+    "current_date": "2025-08-01",
+    "previous_url": "https://www.bls.gov/news.release/archives/empsit_07032025.htm",
+    "current_url": "https://www.bls.gov/news.release/archives/empsit_08012025.htm",
+    "prior_month": "2025-06",
+    "current_month": "2025-07",
+    "previous_level": "159724",
+    "revised_level": "159466",
+    "current_level": "159539",
+    "locator": "Table B-1, Total nonfarm, Seasonally adjusted. Prior release: 2025-06, PDF p. 28. Current release: 2025-06 and 2025-07, PDF p. 28.",
+    "previous_file": "bls/releases/employment-situation-2025-07-03.pdf",
+    "current_file": "bls/releases/employment-situation-2025-08-01.pdf"
+  },
+  {
+    "id": "bls-2025-02",
+    "series": "All employees, total nonfarm, seasonally adjusted",
+    "unit": "thousand jobs",
+    "previous_date": "2025-02-07",
+    "current_date": "2025-03-07",
+    "previous_url": "https://www.bls.gov/news.release/archives/empsit_02072025.htm",
+    "current_url": "https://www.bls.gov/news.release/archives/empsit_03072025.htm",
+    "prior_month": "2025-01",
+    "current_month": "2025-02",
+    "previous_level": "159069",
+    "revised_level": "159067",
+    "current_level": "159218",
+    "locator": "Table B-1, Total nonfarm, Seasonally adjusted. Prior release: 2025-01, PDF p. 31. Current release: 2025-01 and 2025-02, PDF p. 28.",
+    "previous_file": "bls/releases/employment-situation-2025-02-07.pdf",
+    "current_file": "bls/releases/employment-situation-2025-03-07.pdf"
+  },
+  {
+    "id": "bls-2024-10",
+    "series": "All employees, total nonfarm, seasonally adjusted",
+    "unit": "thousand jobs",
+    "previous_date": "2024-10-04",
+    "current_date": "2024-11-01",
+    "previous_url": "https://www.bls.gov/news.release/archives/empsit_10042024.htm",
+    "current_url": "https://www.bls.gov/news.release/archives/empsit_11012024.htm",
+    "prior_month": "2024-09",
+    "current_month": "2024-10",
+    "previous_level": "159105",
+    "revised_level": "158993",
+    "current_level": "159005",
+    "locator": "Table B-1, Total nonfarm, Seasonally adjusted. Prior release: 2024-09, PDF p. 28. Current release: 2024-09 and 2024-10, PDF p. 29.",
+    "previous_file": "bls/releases/employment-situation-2024-10-04.pdf",
+    "current_file": "bls/releases/employment-situation-2024-11-01.pdf"
+  }
+]
